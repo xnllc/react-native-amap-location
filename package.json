@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-smart-amap-location@untilRN0.40",
+        "scope": null,
+        "escapedName": "react-native-smart-amap-location",
+        "name": "react-native-smart-amap-location",
+        "rawSpec": "untilRN0.40",
+        "spec": "untilRN0.40",
+        "type": "tag"
+      },
+      "/Users/zj/code/git/QiPeiLong.SalesApp"
+    ]
+  ],
+  "_cnpm_publish_time": 1490539826887,
+  "_from": "react-native-smart-amap-location@untilRN0.40",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-smart-amap-location@1.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-smart-amap-location",
+  "_nodeVersion": "6.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-smart-amap-location-1.1.2.tgz_1490539824061_0.13258662051521242"
+  },
+  "_npmUser": {
+    "name": "cyqresig",
+    "email": "moonsunfall@aliyun.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-smart-amap-location@untilRN0.40",
+    "scope": null,
+    "escapedName": "react-native-smart-amap-location",
+    "name": "react-native-smart-amap-location",
+    "rawSpec": "untilRN0.40",
+    "spec": "untilRN0.40",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-smart-amap-location/download/react-native-smart-amap-location-1.1.2.tgz",
+  "_shasum": "8bb532780584bbb117cbe9c625e86ef4798c22d1",
+  "_shrinkwrap": null,
+  "_spec": "react-native-smart-amap-location@untilRN0.40",
+  "_where": "/Users/zj/code/git/QiPeiLong.SalesApp",
+  "author": {
+    "name": "HISAME SHIZUMARU"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-component/react-native-smart-amap-location/issues"
+  },
+  "dependencies": {},
+  "description": "A AMap location Library for React Native apps.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8bb532780584bbb117cbe9c625e86ef4798c22d1",
+    "size": 3711059,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-smart-amap-location/download/react-native-smart-amap-location-1.1.2.tgz"
+  },
+  "gitHead": "00bf913f9ae0da5679d7d7607f9bc2e5b9c58859",
+  "homepage": "https://github.com/react-native-component/react-native-smart-amap-location#readme",
+  "keywords": [
+    "react-native",
+    "smart",
+    "location",
+    "amap",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "AMapLocation.js",
+  "maintainers": [
+    {
+      "name": "cyqresig",
+      "email": "moonsunfall@aliyun.com"
+    }
+  ],
+  "name": "react-native-smart-amap-location",
+  "optionalDependencies": {},
+  "publish_time": 1490539826887,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-component/react-native-smart-amap-location.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}
